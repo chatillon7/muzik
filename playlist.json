@@ -4,7 +4,7 @@
     "title": "Maraton",
     "artist": "Ati242",
     "album": "-",
-    "cover": "https://github.com/chatillon7/muzik/blob/303f140869f2a349e4124d5201db2a2a6751e681/covers/maraton-ati242.jpg",
-    "src": "https://github.com/chatillon7/muzik/blob/303f140869f2a349e4124d5201db2a2a6751e681/music/maraton-ati242.mp3"
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/maraton-ati242.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/maraton-ati242.mp3"
   }
 ]
