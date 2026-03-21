@@ -707,9 +707,9 @@ function updatePlayBtns() {
 
 function togglePlay() {
   if (playlist.length === 0) return;
-  if (!audio.src && playlist.length) { loadAndPlay(); return; }
+  if (!audio.src || audio.src === window.location.href) { loadAndPlay(); return; }
   if (isPlaying) { audio.pause(); isPlaying = false; }
-  else { audio.play(); isPlaying = true; }
+  else { audio.play().catch(() => loadAndPlay()); }
   updatePlayBtns();
 }
 
