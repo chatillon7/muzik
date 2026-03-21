@@ -2,7 +2,7 @@
   "name": "Müzik",
   "short_name": "Müzik",
   "description": "Kişisel müzik çalar",
-  "start_url": "/",
+  "start_url": "/muzik",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
