@@ -6,5 +6,157 @@
     "album": "-",
     "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/maraton-ati242.jpg",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/maraton-ati242.mp3"
+  },
+  {
+    "id": "2",
+    "title": "242",
+    "artist": "Ati242",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/242-ati242.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Aşk Şarkısı",
+    "artist": "Şanışer",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/asksarkisi-saniser.mp3"
+  },
+  {
+    "id": "4",
+    "title": "Babaflow",
+    "artist": "Uzi & Motive",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/babaflow-uzi.mp3"
+  },
+  {
+    "id": "5",
+    "title": "Davetiye",
+    "artist": "Uzi & Critical",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/davetiye-uzi.mp3"
+  },
+  {
+    "id": "6",
+    "title": "Düşüşlerim Fazla",
+    "artist": "ZEDI",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/dususlerimfazla-zedi.mp3"
+  },
+  {
+    "id": "7",
+    "title": "Ederin Olsun",
+    "artist": "Ayaz Erdoğan",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/ederinolsun-ayazerdogan.mp3"
+  },
+  {
+    "id": "8",
+    "title": "En Derine",
+    "artist": "-",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/enderine-noname.mp3"
+  },
+  {
+    "id": "9",
+    "title": "Eşkıya",
+    "artist": "Motive",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/eskiya-motive.mp3"
+  },
+  {
+    "id": "10",
+    "title": "Feragat",
+    "artist": "Reckol & BEGE",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/feragat-reckol.mp3"
+  },
+  {
+    "id": "11",
+    "title": "Gel",
+    "artist": "Şanışer",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/gel-saniser.mp3"
+  },
+  {
+    "id": "12",
+    "title": "Ismarla",
+    "artist": "Uzi & Motive",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/ismarla-uzi.mp3"
+  },
+  {
+    "id": "13",
+    "title": "Kafa10",
+    "artist": "Anıl Piyancı & Ezhel",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/kafa10-anilpiyanci.mp3"
+  },
+  {
+    "id": "14",
+    "title": "Kahpe",
+    "artist": "Alizade & Lvbel C5",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/kahpe-lvbelc5.mp3"
+  },
+  {
+    "id": "15",
+    "title": "Kaykay",
+    "artist": "era7capone",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/kaykay-era7capone.mp3"
+  },
+  {
+    "id": "16",
+    "title": "Lefkoşa",
+    "artist": "El Musto",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/lefkosa-elmusto.mp3"
+  },
+  {
+    "id": "17",
+    "title": "Rüya",
+    "artist": "Seksendört & Hande Yener",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/ruya-seksendort.mp3"
+  },
+  {
+    "id": "18",
+    "title": "Sen de Yan",
+    "artist": "Ayaz Erdoğan",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/sendeyan-ayazerdogan.mp3"
+  },
+  {
+    "id": "19",
+    "title": "Sudan Pantolon",
+    "artist": "Şam",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/sudanpantolon-sam.mp3"
+  },
+  {
+    "id": "20",
+    "title": "Yengen Kızar",
+    "artist": "Uzi",
+    "album": "-",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/yengenkizar-uzi.mp3"
   }
 ]
