@@ -114,7 +114,7 @@
   {
     "id": "15",
     "title": "Kaykay",
-    "artist": "era7capone",
+    "artist": "Era7capone",
     "album": "-",
     "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/kaykay-era7capone.jpeg",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/kaykay-era7capone.mp3"
@@ -122,7 +122,7 @@
   {
     "id": "16",
     "title": "Lefkoşa",
-    "artist": "El Musto",
+    "artist": "Elmusto",
     "album": "-",
     "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/lefkosa-elmusto.png",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/lefkosa-elmusto.mp3"
@@ -132,7 +132,7 @@
     "title": "Rüya",
     "artist": "Seksendört & Hande Yener",
     "album": "-",
-    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/ruya-seksendort.jpg",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/ruya-seksendort.mp3"
   },
   {
@@ -140,7 +140,7 @@
     "title": "Sen de Yan",
     "artist": "Ayaz Erdoğan",
     "album": "-",
-    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/sendeyan-ayazerdogan.jpg",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/sendeyan-ayazerdogan.mp3"
   },
   {
@@ -148,7 +148,7 @@
     "title": "Sudan Pantolon",
     "artist": "Şam",
     "album": "-",
-    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/sudanpantolon-sam.jpg",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/sudanpantolon-sam.mp3"
   },
   {
@@ -156,7 +156,7 @@
     "title": "Yengen Kızar",
     "artist": "Uzi",
     "album": "-",
-    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/nocover.jpg",
+    "cover": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/covers/yengenkizar-uzi.jpg",
     "src": "https://raw.githubusercontent.com/chatillon7/muzik/refs/heads/main/music/yengenkizar-uzi.mp3"
   }
 ]
